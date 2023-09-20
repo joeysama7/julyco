@@ -1,0 +1,17 @@
+A brief/compact intro to #Git & #GitHub made easy with #VisualStudioCode
+0:00 Intro
+0:35 Initialize repository
+0:55 Rename branch
+1:25 Staging files
+2:00 Committing files
+2:10 Create new branch
+2:40 Gutter overview
+3:30 Comparing files / inline view
+4:30 Merging branches
+5:00 Publish to Github
+6:00 Clone repository
+6:20 Summary
+git Clone
+git add
+git commit -m "fixes updates"
+git push origin main
