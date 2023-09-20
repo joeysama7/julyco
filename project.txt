@@ -15,3 +15,9 @@ git Clone
 git add
 git commit -m "fixes updates"
 git push origin main
+
+Download Git: https://git-scm.com/downloads
+
+More on #SourceControl #VisualStudioCode & #Git at https://aka.ms/vsc-git
+See other #intro #tutorials at https://aka.ms/VSCodeIntroPlaylist
+Also see #VSCode #TikToks at https://www.tiktok.com/@vscode
